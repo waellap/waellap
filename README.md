@@ -14,7 +14,7 @@ Motivated Cybersecurity Specialist with a strong interest in SOC operations, cyb
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/waellap/Detection-Lab/blob/main/README.md">Malware Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a hhref="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/waellap/Intrusion-Detection-with-Snort/blob/main/README.md">IDS Netwrok Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -49,5 +49,5 @@ Motivated Cybersecurity Specialist with a strong interest in SOC operations, cyb
 
 ## Projects
 - <a href="https://github.com/waellap/Detection-Lab/blob/main/README.md">Malware Detection Lab</a>
-- SOC Automation Project
+- <a href="https://github.com/waellap/Intrusion-Detection-with-Snort/blob/main/README.md">IDS Netwrok Lab</a>
 
