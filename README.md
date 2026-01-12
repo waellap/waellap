@@ -15,8 +15,8 @@ Motivated Cybersecurity Specialist with a strong interest in SOC operations, cyb
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/waellap/Detection-Lab/blob/main/README.md">Malware Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/waellap/Intrusion-Detection-with-Snort/blob/main/README.md">IDS Netwrok Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab |
+| Incident Response Planning and Execution      | <a href="https://github.com/waellap/Incident-Response-/blob/main/README.md"> Incident Response Lab </a>|
 | Vulnerability Scanning for Docker image       | <a href="https://github.com/waellap/Vulnerability-Scanning-for-Docker-Image/blob/main/README.md"> Docker Image  Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
@@ -51,3 +51,4 @@ Motivated Cybersecurity Specialist with a strong interest in SOC operations, cyb
 - <a href="https://github.com/waellap/Detection-Lab/blob/main/README.md">Malware Detection Lab</a>
 - <a href="https://github.com/waellap/Intrusion-Detection-with-Snort/blob/main/README.md">IDS Netwrok Lab</a>
 - <a href="https://github.com/waellap/Vulnerability-Scanning-for-Docker-Image/blob/main/README.md">  Scanning Docker Image vulnerability </a>
+-  <a href="https://github.com/waellap/Incident-Response-/blob/main/README.md"> Incident Response Lab </a>
