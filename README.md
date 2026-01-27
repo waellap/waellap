@@ -27,6 +27,10 @@ Motivated Cybersecurity Specialist with a strong interest in SOC operations, cyb
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-EE3124?&style=for-the-badge&logo=snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-394EFF?&style=for-the-badge&logo=virustotal&logoColor=white" />
+
+
 </div>
 
 ### Endpoint
@@ -40,6 +44,8 @@ Motivated Cybersecurity Specialist with a strong interest in SOC operations, cyb
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-005BAC?&style=for-the-badge&logo=wazuh&logoColor=white" />
+
 </div>
 
 ## Certifications
